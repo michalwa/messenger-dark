@@ -220,9 +220,13 @@ i.img.sp_sbxFxdCZjuj.sx_3032b3 {
         border: 3px solid #ccc;
     }
 }
-
 ._1htf._6zke {
     color: #888;
+}
+
+/* Replied message highlight */
+._3xsz {
+    box-shadow: 0 0 8px rgba(255, 255, 255, .6);
 }
 
 /* Reaction menu */
